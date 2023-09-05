@@ -1,0 +1,32 @@
+body¨{
+    background-color:rgb(95, 29, 29);
+    font-family:'open sans', 'helvetica neve', Helvetica, Arial, sans-serif;
+    font-size: 22px;
+}
+td{
+    vertical-align: text-top;
+}
+ul{
+    list-style-type: none;
+    background-color:  rgb(9, 9, 68);
+    border-radius: 15px;
+    padding: 50px 20px 800px 60px;
+    margin: 10px;
+}
+a{
+    text-decoration: none;
+    color:cyan; 
+}
+div{
+    color:cyan;
+    height: 100%;
+    height: 100%;
+    padding: 20px 10px 20px 40px;
+    margin: 10px;
+    border: 1px solid cornflowerblue;
+    background-color: rgb(9, 9, 68);
+    border-radius: 15px;
+    border: solid 2px rgb(14, 106, 148);
+    border-radius: 15px 0px 15px 0px;
+    box-shadow: 2px 2px 5px rgb(11, 14, 223); 
+}
